@@ -4,4 +4,4 @@ if money ==10:
     print("I will have a choco bar icecream")
 
 else:
-    print("I will have a mango dolly")    
+    print("I will have a mango dolly")
