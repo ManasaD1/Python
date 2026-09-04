@@ -1,3 +1,5 @@
+condition1 =True
+condition2 =False
 if condition1:
     print("Condition 1 met")
 elif condition2:
